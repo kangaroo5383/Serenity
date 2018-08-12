@@ -13,9 +13,11 @@ Restart XCode, then you should see it in the list of available themes in the XCo
 
 Detailed directions for creating the theme file.  Alternatively, just create one in Xcode -> Preferences -> Fonts & Colors, then replace the content.
 
+```
 #create folder
 $ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 #copy color theme file to this new folder
 $ cp color_theme.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 #make file executable
 $ chmod +x ~/Library/Developer/Xcode/UserData/FontAndColorThemes/color_theme.dvtcolortheme
+```
