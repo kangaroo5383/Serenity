@@ -1,6 +1,8 @@
 # Serenity
 An Xcode theme for people who needs their colors to match.  Everything was built around how well `#8ED6FF` and `#26272C` go together.
 
+![image](https://user-images.githubusercontent.com/34344/44431919-d5f15900-a554-11e8-809b-6ee112f342fc.png)
+
 ![image](https://user-images.githubusercontent.com/34344/44005891-aa93224c-9e2f-11e8-87eb-19266938b3c7.png)
 
 To install a theme, copy the .dvtcolortheme file to:
